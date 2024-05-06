@@ -40,5 +40,4 @@ public class ArbolBinarioBusqueda
         return nodo;
     }
 
-    // Aquí podrías implementar métodos para generar estados de cuenta, por ejemplo, recorriendo el árbol inorden.
 }
