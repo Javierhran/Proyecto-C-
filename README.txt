@@ -1,0 +1,1 @@
+Una vez descargados los proyectos en una carpeta y ya colocados en Visual Studio Code , podemos compilar y correr el programa main ya sea desde la terminal con el comando "dotnet run"  o con los botondes de Run y Debug .Donde en la terminal o la salida nos mostrara el numero de tarjeta y los movimientos ejecutados.
