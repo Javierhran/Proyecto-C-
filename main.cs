@@ -17,7 +17,7 @@ class Program
         }
 
       
-        int numeroTarjetaConsulta = 123456789; // Número de tarjeta a consultar
+        int numeroTarjetaConsulta = 123456789; 
         double saldo = listaSaldo.ConsultarSaldo(numeroTarjetaConsulta);
         Console.WriteLine($"Saldo de la tarjeta {numeroTarjetaConsulta}: {saldo}");
 
