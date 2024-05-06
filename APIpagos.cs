@@ -17,7 +17,7 @@ public class ColaPagos
                 if (tarjeta.NumeroTarjeta == pago.NumeroTarjeta)
                 {
                     tarjeta.Saldo -= pago.Monto;
-                    // Aquí podrías agregar lógica adicional, como validar saldo suficiente, etc.
+                   
                     break;
                 }
             }
