@@ -26,5 +26,5 @@ public class ArbolBloqueo
         return nodo;
     }
 
-    // Aquí podrías implementar métodos para gestionar el estado de bloqueo de las tarjetas
+   
 }
