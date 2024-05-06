@@ -21,5 +21,4 @@ public class ListaCambioPIN
         cabeza = nuevoNodo;
     }
 
-    // Aquí podrías agregar más métodos para gestionar los cambios de PIN
 }
